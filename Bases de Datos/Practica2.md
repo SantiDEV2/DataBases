@@ -1,53 +1,22 @@
-# Uso de aplicaciones de bateria de mi celular
+# Uso de tiempo en mi Celular
 
 ## Aplicaciones
+- Nombre (**__PK__**)
+- Fecha de lanzamiento
+- Desarrollador
+- Programado en
 
-### Tiktok
-- Porcentaje de bateria gastado
-- Tiempo de uso activo
-- Tiempo de uso en el fondo
+## Tipo de Aplicacion 
+- Nombre (**__FK__**)
+- Descripcion 
+- Categoria 
+- Descargas de usuarios
 
-### Drive
-- Porcentaje de bateria gastado
-- Tiempo de uso activo
-- Tiempo de uso en el fondo
+## Uso de aplicacion
+- Tiempo de Uso (**__PK__**)
+- Tiempo de Uso en Fondo
+- Bateria Gastada(**__FK__**)
 
-### Instagram
-- Porcentaje de bateria gastado
-- Tiempo de uso activo
-- Tiempo de uso en el fondo
-
-### Spotify
-- Porcentaje de bateria gastado
-- Tiempo de uso activo
-- Tiempo de uso en el fondo
-
-### Whatsapp
-- Porcentaje de bateria gastado
-- Tiempo de uso activo
-- Tiempo de uso en el fondo
-
-### Camara
-- Porcentaje de bateria gastado
-- Tiempo de uso activo
-- Tiempo de uso en el fondo
-
-### Safari
-- Porcentaje de bateria gastado
-- Tiempo de uso activo
-- Tiempo de uso en el fondo
-
-### Fotos
-- Porcentaje de bateria gastado
-- Tiempo de uso activo
-- Tiempo de uso en el fondo
-
-### Youtube
-- Porcentaje de bateria gastado
-- Tiempo de uso activo
-- Tiempo de uso en el fondo
-
-### Facebook
-- Porcentaje de bateria gastado
-- Tiempo de uso activo
-- Tiempo de uso en el fondo
+## Bateria 
+- Bateria Gastada (**__PK__**) 
+- Brillo usado 
