@@ -5,3 +5,5 @@
 [Github](https://github.com/SantiDEV2)
 <br>
 [Mail](cdmx2162@amerike.edu.mx)
+
+[Archivo de Practica 2](/Bases%20de%20Datos/Practica2.md)
