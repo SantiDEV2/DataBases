@@ -1,22 +1,25 @@
-# Uso de tiempo en mi Celular
+# Celulares
 
-## Aplicaciones
-- Nombre (**__PK__**)
-- Fecha de lanzamiento
-- Desarrollador
-- Programado en
+### Marcas 
+- ID_Marca (**__PK__**)
+- Nombre de Marca 
+- Fecha de Fundacion
+- Lugar de Fundacion 
+- Fundadores  
 
-## Tipo de Aplicacion 
-- Nombre (**__FK__**)
-- Descripcion 
-- Categoria 
-- Descargas de usuarios
+### Modelos
+- ID_Modelos (**__PK__**)
+- Nombre de Modelo
+- Año de lanzamiento
+- ID_Especificaciones (**__FK__**)
 
-## Uso de aplicacion
-- Tiempo de Uso (**__PK__**)
-- Tiempo de Uso en Fondo
-- Bateria Gastada(**__FK__**)
 
-## Bateria 
-- Bateria Gastada (**__PK__**) 
-- Brillo usado 
+### Especificaciones
+- ID_Especificaciones (**__PK__**)
+- Pantalla
+- Camara
+- Memoria 
+- Procesador 
+- Precio 
+- Sistema Operativo
+
