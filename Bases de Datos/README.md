@@ -7,5 +7,6 @@
 [Mail](cdmx2162@amerike.edu.mx)
 
 ## Documentos Bases de Datos 
-<br>
-[Archivo de Practica 2](/Bases%20de%20Datos/Practica2.md)
+
+- [Practica 2](./Practica2.md)
+- [Practica 3 Excel](https://docs.google.com/spreadsheets/d/1cpPBTKNUo-pGQTfANkqxrrg-bk6u0TI0lhPZ4U2ayyM/edit?usp=sharing)
