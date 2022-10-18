@@ -2,6 +2,7 @@
 
 ### Marcas 
 - ID_Marca (**__PK__**)
+- Sistema Operativo
 - Nombre de Marca 
 - Fecha de Fundacion
 - Lugar de Fundacion 
@@ -16,10 +17,15 @@
 
 ### Especificaciones
 - ID_Especificaciones (**__PK__**)
+- ID_Modelos (**__FK__**)
 - Pantalla
 - Camara
 - Memoria 
 - Procesador 
 - Precio 
-- Sistema Operativo
 
+### Ventas
+- ID_Ventas (**__PK__**)
+- ID_Marca (**__FK__**)
+- Numero de Ventas
+- Lugar de Fabricación 
