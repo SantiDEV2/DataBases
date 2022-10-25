@@ -54,3 +54,8 @@
 5. Una Venta puede tener muchos Modelos (1-M)
 6. Una Venta puede tener un Cliente (1-M)
 
+### Tabla
+
+<br>
+
+![img](https://media.discordapp.net/attachments/948289759120351302/1034480084968550431/Diagrama_sin_titulo.jpg)
