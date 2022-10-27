@@ -58,4 +58,4 @@
 
 <br>
 
-![img](https://media.discordapp.net/attachments/948289759120351302/1034480084968550431/Diagrama_sin_titulo.jpg)
+![img](https://cdn.discordapp.com/attachments/948289759120351302/1035210763641565294/Diagrama_sin_titulo_1.jpg)
