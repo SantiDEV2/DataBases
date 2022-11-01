@@ -10,3 +10,4 @@
 - [Practica 2](./Practica2.md)
 - [Practica 3 Excel](https://docs.google.com/spreadsheets/d/1cpPBTKNUo-pGQTfANkqxrrg-bk6u0TI0lhPZ4U2ayyM/edit?usp=sharing)
 - [Practica 6](./Practica2.md)
+- [Practica 8](./Practica2.md)
