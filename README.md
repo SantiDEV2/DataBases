@@ -9,5 +9,7 @@
 ## Parte Practica
 
 [Schema](./SQL/Schema.sql)
+
 [InitialData](./SQL/initial_data.sql)
+
 [Queries](./SQL/queries.sql)
