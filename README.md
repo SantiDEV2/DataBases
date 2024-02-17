@@ -1,13 +1,13 @@
-# Santiago Mondragon Ramirez
+# Data Base Basics
 
-![Foto](https://media.discordapp.net/attachments/948289759120351302/1029400369522028714/unknown.png?width=385&height=513)
+## Parte Teorica
+- [Tablas y Llaves](./Practica1.md)
+- [Relaciones](./Practica2.md)
+- [Tabla en Foto](./Practica3.md)
+- [Reglas de Negocio](./Practica4.md)
 
-- [Github](https://github.com/SantiDEV2)
-- [Mail](cdmx2162@amerike.edu.mx)
+## Parte Practica
 
-## Documentos Bases de Datos 
-
-- [Practica 2](./Practica2.md)
-- [Practica 3 Excel](https://docs.google.com/spreadsheets/d/1cpPBTKNUo-pGQTfANkqxrrg-bk6u0TI0lhPZ4U2ayyM/edit?usp=sharing)
-- [Practica 6](./Practica2.md)
-- [Practica 8](./Practica2.md)
+[Schema](./SQL/Schema.sql)
+[InitialData](./SQL/initial_data.sql)
+[Queries](./SQL/queries.sql)
